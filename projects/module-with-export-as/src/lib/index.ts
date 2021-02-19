@@ -1,0 +1,1 @@
+export * from './module-with-export-as.module';
