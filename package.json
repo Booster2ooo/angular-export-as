@@ -11,7 +11,7 @@
 	"case1": "ng b module-with-export-as",
 	"case2": "ng test module-with-export-as",
 	"case3": "npm run case1 && ng serve app-with-package",
-	"case4": "ng serve app-with-relative",
+	"case4": "ng serve app-with-relative"
   },
   "private": true,
   "dependencies": {
